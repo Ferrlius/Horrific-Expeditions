@@ -1,6 +1,6 @@
 <center>
 
-## Horrific Expeditions
+# Horrific Expeditions
 
 </center>
 
