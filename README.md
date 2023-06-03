@@ -1,7 +1,4 @@
-<center>
-
 # Horrific Expeditions
-
-</center>
-
 Modpack repository for update releases
+
+[modrinth](https://modrinth.com/modpack/horrific-expeditions) page
